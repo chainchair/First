@@ -1,0 +1,22 @@
+h1{
+    text-align:center;
+
+    font-family: Arial,serif;
+}
+p{
+    font-family: Cambria,serif;
+    font-size: 20px;
+}
+pre{
+    font-family: Cambria,serif;
+    font-size: 20px;
+}
+body{
+    background-color: #101010;
+    color: azure;
+}
+table,th,td{
+
+    border:1px solid white;
+
+}
